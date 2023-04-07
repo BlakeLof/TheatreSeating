@@ -1,29 +1,25 @@
 # Overview
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+This program creates a vitual theatre and then fills this theatre full of patron. Its a basic concept of how theatre systems work just with an autofill file.
 
-{Describe your purpose for writing this software.}
+I updated my Eclipse and Now this program is broken
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wrote this software to demonstrate my ability with C++ 2 file concept.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] 
+This program stopped working when I tried to make a video of it.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Eclipse C++ IDE to create these file
+Windows 10
 
-{Describe the programming language that you used and any libraries.}
+Languages used are C++ and C
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3schools](https://www.w3schools.com/cpp/)
+- [isocpp](https://isocpp.org/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Figure out why this code is breaking now
+- Make it to where the user can choose a seat like in a theatre
+- Add a display to show the seats available
